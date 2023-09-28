@@ -1,3 +1,3 @@
-# gitmind-ai
+# GitMind AI
 
-GitMind AI
+AI-Driven Version Control
