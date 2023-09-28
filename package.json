@@ -2,6 +2,19 @@
   "name": "gitmind-ai",
   "displayName": "GitMind AI",
   "description": "AI-Driven Version Control",
+  "homepage": "https://github.com/plsankar/gitmind-ai-vscode",
+  "keywords": [
+    "ai",
+    "git",
+    "commit",
+    "version control"
+  ],
+  "author": {
+    "name": "Lakshmi Sankar",
+    "email": "me@lakshmisankar.com",
+    "url": "https://lakshmisankar.com/"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
