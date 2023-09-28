@@ -1,0 +1,3 @@
+# gitmind-ai
+
+GitMind AI
